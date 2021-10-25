@@ -4,7 +4,7 @@
   "description": "hang cli",
   "main": "index.js",
   "bin": {
-    "hang": "index.js"
+    "hcli": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
